@@ -1,2 +1,2 @@
 # Battom
-Hello World!
+Hello World
